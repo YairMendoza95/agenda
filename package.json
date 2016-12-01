@@ -1,0 +1,22 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "Agenda HTML",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YairMendoza95/agenda.git"
+  },
+  "author": "YairMendoza95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YairMendoza95/agenda/issues"
+  },
+  "homepage": "https://github.com/YairMendoza95/agenda#readme",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
